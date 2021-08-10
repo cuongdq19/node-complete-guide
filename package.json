@@ -11,6 +11,7 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
+    "@types/mongoose": "^5.11.97",
     "nodemon": "^1.18.3"
   },
   "dependencies": {
@@ -19,6 +20,7 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "mongodb": "^4.1.0",
+    "mongoose": "^5.13.6",
     "mysql2": "^1.6.1",
     "pug": "^2.0.3",
     "sequelize": "^4.44.4"
