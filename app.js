@@ -27,6 +27,7 @@ const store = new MongoDBStore({
 });
 const csrfProtection = csrf();
 
+// SSL Key
 // const privateKey = fs.readFileSync('server.key');
 // const certificate = fs.readFileSync('server.cert');
 
